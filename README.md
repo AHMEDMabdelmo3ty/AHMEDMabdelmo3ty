@@ -2,7 +2,6 @@
 
 ### Hi there 👋, my name is ahmed abdelmoty
 ![Profile views](https://gpvc.arturio.dev/AHMEDMabdelmo3ty)  
-//####my [my portfalio](https://ahmedmabdelmo3ty.github.io/my-portfolio/)
 #### About me
 I'm Flutter Developer from Egypt.
 - Flutter developer .
