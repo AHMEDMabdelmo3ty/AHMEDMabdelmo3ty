@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - Animation
 - State Management ( Getx )
 - State Management ( Provider )
+- State Management ( Bloc )
 
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
