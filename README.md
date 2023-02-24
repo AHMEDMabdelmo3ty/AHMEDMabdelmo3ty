@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 - covid app Link =>https://github.com/AHMEDMabdelmo3ty/covid_19_eg.
 - qr-scan app Link => https://github.com/AHMEDMabdelmo3ty/qr-scan.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AHMEDMabdelmo3ty&disable_animations=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AHMEDMabdelmo3ty&disable_animations=treu)](https://git.io/streak-stats)
+https://github-profile-trophy.vercel.app/?username=AHMEDMabdelmo3ty&row=2&column=3
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
