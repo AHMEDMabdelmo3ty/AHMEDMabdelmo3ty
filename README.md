@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AHMEDMabdelmo3ty)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AHMEDMabdelmo3ty)](https://github.com/AHMEDMabdelmo3ty?tab=repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AHMEDMabdelmo3ty&disable_animations=true)](https://github.com/AHMEDMabdelmo3ty?tab=repositories)
