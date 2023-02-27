@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - State Management ( Provider )
 - State Management ( Bloc )
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHMEDMabdelmo3ty)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 
