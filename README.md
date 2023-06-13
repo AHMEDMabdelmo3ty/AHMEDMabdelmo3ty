@@ -65,3 +65,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AHMEDMabdelmo3ty)  
 
+  <a href="https://app.daily.dev/Abdelmo3t"><img src="https://api.daily.dev/devcards/d1641fc66d1e4e3bacaea8afca5189f8.png?r=o8o" width="400" alt="ahmed abdelmo3ty's Dev Card"/></a>
